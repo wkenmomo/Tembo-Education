@@ -2,7 +2,6 @@
 
 <html>
 <head>
-  <title>Insight data challenge-Kun</title>
   <meta charset="UTF-8">
   <meta name="description" content="Explanation for my coding">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
